@@ -735,7 +735,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -744,7 +744,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -837,7 +837,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -846,7 +846,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -879,7 +879,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -888,7 +888,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -921,7 +921,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
@@ -930,7 +930,7 @@ let AppHome = class {
                 .map(image => {
                 return {
                   image: image,
-                  width: 500,
+                  width: 250,
                   margin: [10, 10],
                 };
               }),
